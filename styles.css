@@ -12,9 +12,8 @@ display: flex;
 justify-content: center;
 position: relative;
 top: 70px;
-border: 5px solid #60683C;
+border-bottom: 5px solid #60683C;
 padding: 10px;
-border-radius: 20px;
 }
 .ponio{
 display: block;
@@ -37,6 +36,7 @@ background-color: #909b59;
 display: flex;
 flex-direction: column;
 justify-content: center;
+align-items: center;
 height: 1100px;
 }
 .title{
